@@ -23,7 +23,7 @@ You get this message in the console when the server has started: **Server has be
 
 https://github.com/qbcore-framework
 
-## QBCore FRAMEWORK COMMANDS
+## COMMANDS
 
 Here are some console commands you can use in the products configuration (https://tip4serv.com/dashboard/my-products)
 
